@@ -38,24 +38,17 @@ me.say_hi()
 ---
 
 ## 🛠️ Tech Stack & Skills
-
 ### 🧠 AI / ML / DL
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00ACC1?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ![Gen-AI](https://img.shields.io/badge/Gen--AI-7B1FA2?style=for-the-badge&logo=openai&logoColor=white)
-
 ![LLMs](https://img.shields.io/badge/LLMs-43A047?style=for-the-badge&logo=huggingface&logoColor=white)
-
 ![RAG](https://img.shields.io/badge/RAG-6D4C41?style=for-the-badge&logo=databricks&logoColor=white)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-
 
 ### 💻 Languages & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
