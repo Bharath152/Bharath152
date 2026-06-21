@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=S.%20Padmanabhan&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Deep%20Learning%20Builder&descAlignY=58&descSize=16&descColor=FFD700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=S.%20Padmanabhan&fontSize=48&fontColor=C084FC&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Deep%20Learning%20Builder&descAlignY=58&descSize=16&descColor=C084FC" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+LLM+applications+%F0%9F%A7%A0;Computer+Vision+%7C+Object+Detection+%7C+OCR+%F0%9F%91%81%EF%B8%8F;NLP+%7C+Sentiment+Analysis+%7C+Text+Classification+%F0%9F%92%AC;Deploying+AI+systems+to+production+%F0%9F%9A%80;Open+to+AI%2FML+roles+%26+collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+LLM+applications+%F0%9F%A7%A0;Computer+Vision+%7C+Object+Detection+%7C+OCR+%F0%9F%91%81%EF%B8%8F;NLP+%7C+Sentiment+Analysis+%7C+Text+Classification+%F0%9F%92%AC;Deploying+AI+systems+to+production+%F0%9F%9A%80;Open+to+AI%2FML+roles+%26+collaborations)](https://git.io/typing-svg)
 
 <br/>
 
