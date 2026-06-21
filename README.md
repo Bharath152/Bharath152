@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=S.%20Padmanabhan&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Deep%20Learning%20Builder&descAlignY=58&descSize=16&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=S.%20Padmanabhan&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20ML%20Practitioner%20%E2%80%A2%20Deep%20Learning%20Builder&descAlignY=58&descSize=16&descColor=FFD700" width="100%"/>
 
 <br/>
 
@@ -18,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer** from Kerala, India 🇮🇳 with 1+ years of hands-on experience building and deploying intelligent systems — from customer churn models to multimodal AI apps. I work across the full ML stack: data analysis, model training, evaluation, and production deployment.
+I'm an **AI/ML Engineer** from Kerala, India 🇮🇳 with 1+ years of hands-on experience building and deploying intelligent systems — I work across the full AI stack: data collection, data annotation,data analysis, model training, evaluation, and production deployment.
 
 ```python
 class AIEngineer:
     name       = "S. Padmanabhan"
     location   = "Kerala, India 🇮🇳"
     experience = "1+ year in AI/ML"
-    domains    = ["Deep Learning", "Computer Vision", "NLP", "GenAI / RAG", "MLOps"]
+    domains    = ["Deep Learning", "Computer Vision", "NLP", "GenAI / RAG", "Machine Learning"]
     deployed   = ["IntelliDoc (RAG Q&A)", "AI Interview Coach", "Image Caption Generator"]
     currently  = "Building production-grade AI systems & exploring frontier models"
     open_to    = "AI/ML roles, research collaborations, open-source projects"
@@ -40,7 +40,7 @@ class AIEngineer:
 
 ### 🌐 Deployed Applications
 
-| Project | Description | Stack | Demo |
+| Project | Description | Stack | Demo link |
 |--------|-------------|-------|------|
 | 🔍 **IntelliDoc — RAG Document Q&A** | Upload any document and ask questions. Retrieval-Augmented Generation pipeline with vector search and contextual answering. | LangChain · FAISS · Streamlit · OpenAI | [![Live](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ragdocumentq-intellidoc.streamlit.app/) |
 | 🎙️ **AI Interview Coach Chatbot** | Conversational interview prep assistant powered by Gemini 2.5. Generates domain-specific questions, evaluates answers, and gives feedback. | Gemini 2.5 · Python · LLM Prompting | [![Live](https://img.shields.io/badge/Deployed-4CAF50?style=flat&logo=google&logoColor=white)](https://ai-interview-coach-oezptirujkg8fct2hmdupj.streamlit.app/) |
@@ -52,7 +52,7 @@ class AIEngineer:
 
 | Project | Highlights | Tools |
 |--------|-----------|-------|
-| 📉 **Telecom Customer Churn Prediction** | End-to-end classification pipeline. Feature engineering, SMOTE for class imbalance, XGBoost + hyperparameter tuning. AUC-ROC evaluation. | Scikit-learn · XGBoost · Pandas |
+| 📉 **Telecom Customer Churn Prediction** | End-to-end classification pipeline. Feature engineering, SMOTE for class imbalance, XGBoost + hyperparameter tuning. AUC-ROC evaluation. | Scikit-learn · XGBoost ·LightBGM  ·Random Forest ·Pandas  ·  |
 | 💳 **German Credit Risk Analysis** | Binary classification on imbalanced credit data. Compared Logistic Regression, Random Forest, and Gradient Boosting. Precision-Recall tradeoff analysis. | Scikit-learn · Matplotlib · Seaborn |
 | 🏠 **House Price Prediction** | Regression pipeline with missing value imputation, feature selection, and ensemble models. RMSE-optimized. | Scikit-learn · NumPy · Pandas |
 | 🎵 **Spotify Genre Detection** | Multi-class audio feature classification using audio metadata. Explored KNN, SVM, and tree-based classifiers. | Scikit-learn · Seaborn |
@@ -72,8 +72,8 @@ class AIEngineer:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🚗 **Number Plate Detection** | Automatic License Plate Recognition (ALPR). Plate localization + EasyOCR text extraction pipeline. | YOLOv8 · EasyOCR · OpenCV |
-| 👤 **Face Detection System** | Real-time multi-face detection using Haar cascades and DNN-based detectors. | OpenCV · dlib |
+| 🚗 **Number Plate Detection** | Automatic License Plate Recognition . Plate localization + EasyOCR text extraction pipeline. | YOLOv8 · EasyOCR · OpenCV |
+| 👤 **Face Detection System** | Real-time multi-face detection using Haar cascades and OpenCV. | OpenCV ·|
 | 🖼️ **Image Classification** | CNN-based classifier trained on standard benchmark datasets. Includes confusion matrix and per-class accuracy analysis. | TensorFlow · Keras |
 
 ---
