@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-padmanabhan-baa6242b3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharath152)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathpadmanabhan2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bharath152.github.io/portfolio/)
+
 
 
 </div>
@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer** from Kerala, India 🇮🇳 with 1+ years of hands-on experience building and deploying intelligent systems — I work across the full AI stack: data collection, data annotation,data analysis, model training, evaluation, and production deployment.
+I'm an **AI/ML Engineer** from Kerala, India 🇮🇳 with 2 years of hands-on experience building and deploying intelligent systems — I work across the full AI stack: data collection, data annotation,data analysis, model training, evaluation, and production deployment.
 
 ```python
 class AIEngineer:
     name       = "S. Padmanabhan"
     location   = "Kerala, India 🇮🇳"
-    experience = "1+ year in AI/ML"
+    experience = "2 year in AI/ML"
     domains    = ["Deep Learning", "Computer Vision", "NLP", "GenAI / RAG", "Machine Learning"]
     deployed   = ["IntelliDoc (RAG Q&A)", "AI Interview Coach", "Image Caption Generator"]
     currently  = "Building production-grade AI systems & exploring frontier models"
